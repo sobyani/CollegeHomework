@@ -1,0 +1,14 @@
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\bin\Debug\net8.0\дз по компьютерной школе 9.exe
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\bin\Debug\net8.0\дз по компьютерной школе 9.deps.json
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\bin\Debug\net8.0\дз по компьютерной школе 9.runtimeconfig.json
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\bin\Debug\net8.0\дз по компьютерной школе 9.dll
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\bin\Debug\net8.0\дз по компьютерной школе 9.pdb
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\obj\Debug\net8.0\дз по компьютерной школе 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\obj\Debug\net8.0\дз по компьютерной школе 9.AssemblyInfoInputs.cache
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\obj\Debug\net8.0\дз по компьютерной школе 9.AssemblyInfo.cs
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\obj\Debug\net8.0\дз по компьютерной школе 9.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\obj\Debug\net8.0\дз по компьютерной школе 9.dll
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\obj\Debug\net8.0\refint\дз по компьютерной школе 9.dll
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\obj\Debug\net8.0\дз по компьютерной школе 9.pdb
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\obj\Debug\net8.0\дз по компьютерной школе 9.genruntimeconfig.cache
+C:\Users\Yarik\source\repos\дз по компьютерной школе 9\дз по компьютерной школе 9\obj\Debug\net8.0\ref\дз по компьютерной школе 9.dll

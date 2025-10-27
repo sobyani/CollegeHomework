@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "дз по компьютерной школе 9/1.0.0": {
+        "runtime": {
+          "дз по компьютерной школе 9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "дз по компьютерной школе 9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
