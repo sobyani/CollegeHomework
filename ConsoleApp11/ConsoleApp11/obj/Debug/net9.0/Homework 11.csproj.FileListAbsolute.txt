@@ -1,0 +1,14 @@
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\Homework 11.exe
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\Homework 11.deps.json
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\Homework 11.runtimeconfig.json
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\Homework 11.dll
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\Homework 11.pdb
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\Homework 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\Homework 11.AssemblyInfoInputs.cache
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\Homework 11.AssemblyInfo.cs
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\Homework 11.csproj.CoreCompileInputs.cache
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\Homework 11.dll
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\refint\Homework 11.dll
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\Homework 11.pdb
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\Homework 11.genruntimeconfig.cache
+C:\Users\РПО\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\ref\Homework 11.dll
