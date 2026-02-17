@@ -6,15 +6,20 @@ using System.Threading.Tasks;
 
 namespace Homework_14
 {
-     class TaskItem
+    public class TaskItem
     {
-        public string Description { get; set; }
-        public bool IsDone { get; set; }
-
-        public TaskItem(string description)
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public bool IsCompleted { get; set; }
+        public TaskItem(int id,string title)
         {
-            Description = description;
-            IsDone = false;
+            if (string.IsNullOrWhiteSpace(title))
+                throw new ArgumentException("Название задачи не может быть пустым", nameof(title));
+            Id = id;
+            Title = title;
+            IsCompleted = false;
         }
+        
+
     }
 }
